@@ -1,4 +1,4 @@
-# Impact Of Car Features Analysis
+# Project 1 Impact Of Car Features Analysis
 
 This project analyzes a dataset containing 11,159 car models with 16 attributes, including make, engine, fuel type, MSRP, market category, and fuel efficiency. The goal is to provide insights into consumer demand and profitability, helping car manufacturers optimize pricing strategies and product development.
 
@@ -53,7 +53,7 @@ The project involves the following key steps:
 5. **Fuel Efficiency vs. Engine Cylinders**: Evaluating the relationship between fuel efficiency (MPG) and engine cylinders.
 
 
-# Bank Loan Case Study
+# Project 2 Bank Loan Case Study
 
 ### Summary
 This project involves analyzing a loan dataset for a financial institution to mitigate risks associated with loan approvals. The primary goal is to use Exploratory Data Analysis (EDA) to identify patterns and attributes affecting customer default likelihood.

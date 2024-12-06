@@ -20,7 +20,6 @@ This project involves analyzing a loan dataset for a financial institution to mi
 
 ### Tools Used
 - **Microsoft Excel:** Data cleaning, statistical analysis, visualizations.
-- **Python (optional):** For deeper insights (if applicable).
 
 ### Insights
 - Missing data was identified and addressed using median/mode imputation.

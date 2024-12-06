@@ -53,6 +53,9 @@ The project involves the following key steps:
 5. **Fuel Efficiency vs. Engine Cylinders**: Evaluating the relationship between fuel efficiency (MPG) and engine cylinders.
 
 
+[**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EWT7RfsCaatFs_QDdlJjzCYB9icTkdquwclET_Cl3grhhQ?e=AnOtt6)
+
+
 # Project 2 Bank Loan Case Study
 
 ### Summary

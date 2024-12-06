@@ -96,3 +96,37 @@ Key trends were visualized, including:
 [**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EVvufTqxdTBGuMrmiN4sQW0BVDruAiOytO_EM0PJwU0OGQ?e=5u2hCy)
 
 [**View Excel File with Project Analysis**](https://1drv.ms/x/c/5c04ca5b7bc77dac/Ed9FG9BY4lZBvNJiSWI1FtcBF8jM2cgVH_CGTks9NRBT4w?e=0uES1r)
+
+
+# Project 3 Customer Churn Analysis
+
+### Project Overview
+The objective of this project is to analyze customer churn patterns for a telecom company, identify key factors leading to churn, and provide actionable insights to reduce customer attrition.
+
+### Key Insights
+- **Churn Rate**: Approximately 26.54% of customers have churned.
+- **Tenure**: Customers with longer tenure are less likely to churn.
+- **Contracts**: Customers on month-to-month contracts have a higher churn rate compared to one-year or two-year contracts.
+- **Payment Method**: Customers using electronic checks are more likely to churn compared to other payment methods.
+- **Service Usage**: Lack of services like PhoneService, InternetService (DSL), and OnlineSecurity correlates with higher churn rates.
+
+### Approach
+1. **Data Cleaning**:
+   - Replaced blank `TotalCharges` values with 0 and converted the column to numeric.
+   - Converted binary columns (e.g., `SeniorCitizen`) to more understandable labels (`Yes`/`No`).
+2. **Exploratory Data Analysis**:
+   - Used univariate, bivariate, and multivariate analysis to uncover churn patterns.
+3. **Visualization Tools**:
+   - **Seaborn** and **Matplotlib** for creating insightful graphs.
+
+### Tools and Libraries
+- **Pandas** for data manipulation.
+- **NumPy** for numerical computations.
+- **Seaborn** and **Matplotlib** for visualizations.
+
+### Future Scope
+- Develop predictive models using machine learning to predict churn based on key features.
+- Implement customer segmentation strategies to provide personalized offers for high-risk customers.
+
+[**View Full Project Report**](https://your-onedrive-link-here)
+

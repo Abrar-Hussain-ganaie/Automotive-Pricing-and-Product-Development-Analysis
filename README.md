@@ -55,6 +55,7 @@ The project involves the following key steps:
 
 [**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EWT7RfsCaatFs_QDdlJjzCYB9icTkdquwclET_Cl3grhhQ?e=AnOtt6)
 
+[**View Excel File with Project Analysis**](https://1drv.ms/x/c/5c04ca5b7bc77dac/Eff3x9ZeBn5OmnmJSvZiJu8B9r2GAyAQVOt2hn19KYg6Eg?e=ss13oP)
 
 # Project 2 Bank Loan Case Study
 
@@ -94,4 +95,4 @@ Key trends were visualized, including:
 
 [**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EVvufTqxdTBGuMrmiN4sQW0BVDruAiOytO_EM0PJwU0OGQ?e=5u2hCy)
 
-[**View Excel File**](https://1drv.ms/x/c/5c04ca5b7bc77dac/Ed9FG9BY4lZBvNJiSWI1FtcBF8jM2cgVH_CGTks9NRBT4w?e=0uES1r)
+[**View Excel File with Project Analysis**](https://1drv.ms/x/c/5c04ca5b7bc77dac/Ed9FG9BY4lZBvNJiSWI1FtcBF8jM2cgVH_CGTks9NRBT4w?e=0uES1r)

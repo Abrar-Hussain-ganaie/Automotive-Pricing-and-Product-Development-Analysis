@@ -128,5 +128,5 @@ The objective of this project is to analyze customer churn patterns for a teleco
 - Develop predictive models using machine learning to predict churn based on key features.
 - Implement customer segmentation strategies to provide personalized offers for high-risk customers.
 
-[**View Full Project Report**](https://your-onedrive-link-here)
+[**View Python Code (pdf)**](https://1drv.ms/u/c/5c04ca5b7bc77dac/Ec9twD78nQtGkNhhUhdW5oQBmhF4PKfl-4oygBe7g8Pu4Q?e=xnTS4Q)
 

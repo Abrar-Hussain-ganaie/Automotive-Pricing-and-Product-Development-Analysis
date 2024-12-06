@@ -94,3 +94,4 @@ Key trends were visualized, including:
 
 [**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EVvufTqxdTBGuMrmiN4sQW0BVDruAiOytO_EM0PJwU0OGQ?e=5u2hCy)
 
+[**View Excel File**](https://1drv.ms/x/c/5c04ca5b7bc77dac/Ed9FG9BY4lZBvNJiSWI1FtcBF8jM2cgVH_CGTks9NRBT4w?e=0uES1r)

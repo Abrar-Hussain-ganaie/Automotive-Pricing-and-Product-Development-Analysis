@@ -134,3 +134,50 @@ The objective of this project is to analyze customer churn patterns for a teleco
 
 [**View Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EfKKu4QUtxxFp0aIC-eQczsBzYMpN-g6ilI2VSvA1IlpQw?e=dki0mk)
 
+# Project 4 ABC Call Volume Trend Analysis
+
+## Description
+This project analyzed **Customer Experience (CX)** data for a company's inbound call operations over 23 days. The goal was to optimize manpower allocation, reduce call abandonment rates, and enhance service efficiency by analyzing call duration, volume trends, and customer interaction data.
+
+## Key Features
+- **Call Volume Analysis**: Visualized call volumes by time buckets to identify peak hours, ensuring effective staffing and reduced wait times.
+- **Manpower Planning**: Proposed workforce adjustments to lower call abandonment rates from 30% to 10% during peak and night shifts.
+- **Call Duration Trends**: Analyzed average call durations to identify patterns and improve customer handling efficiency.
+- **Night Shift Optimization**: Designed a night shift staffing plan to address 30% of daily calls occurring during off-hours.
+
+## Tools & Skills
+- **Excel**: Data cleaning, pivot tables, and time-based analysis.
+- **Statistical Analysis**: Trend identification for improving operational efficiency.
+
+## Outcomes
+- Reduced call abandonment during peak hours by optimizing manpower allocation.
+- Improved customer experience by ensuring adequate staffing during critical periods.
+- Provided actionable insights for effective resource planning and enhanced service levels.
+
+- [**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EYBpr4OyCCZJo6ADgoNm7owB5895hlj9V9DylSwJMbP40g?e=G43LO5)
+
+[**View Excel File with Project Analysis**](https://1drv.ms/x/c/5c04ca5b7bc77dac/Eepqx8eoc4ZChJF5Hy6aTSgBuBJsS91tmT_dy5eK6Rsg4A?e=7cmKup)
+
+# Project 5 Sales Performance Project
+
+## Description
+This project involved analyzing sales performance data of a superstore using **Power BI** and **Python** to derive insights on sales trends, profitability, and customer behavior. The objective was to support data-driven decision-making and improve business operations.
+
+## Key Features
+- **Category Performance**: Identified **Office Supplies** and **Technology** as top-performing categories, with $0.64M and $0.47M sales, respectively.
+- **Regional Insights**: Highlighted the **West** as the highest-performing region and the **South** as a growth opportunity.
+- **Customer Segmentation**: Consumers accounted for 48% of total sales, offering key insights into customer preferences.
+- **Seasonal Trends**: Detected sales peaks in November and December, aligned with holiday promotions.
+
+## Tools & Skills
+- **Power BI**: Visualized sales data using bar and line charts to highlight trends across categories, regions, and time.
+- **Python**: Used for data preprocessing and detailed analysis.
+
+## Outcomes
+- Recommended promotional strategies for high-demand subcategories like Phones and Chairs.
+- Proposed improvements in shipping methods, emphasizing potential for First Class and Same Day shipping.
+- Leveraged seasonal insights to enhance inventory planning and maximize holiday sales.
+
+- [**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EaiiYPhuz7lNtBdKginZsQsBvBOnkwQFHFA98ZCqc2kblg?e=nhdO1K)
+
+[**View Power BI File with Project Analysis**](https://1drv.ms/u/c/5c04ca5b7bc77dac/ETJ0ZrhmdKpNgKGs6oqHtyYBhujFfHlaFp6E4WTGLdXxFg?e=p6NZfw)

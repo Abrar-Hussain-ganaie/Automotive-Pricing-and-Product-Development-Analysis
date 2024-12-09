@@ -181,3 +181,57 @@ This project involved analyzing sales performance data of a superstore using **P
  [**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EaiiYPhuz7lNtBdKginZsQsBvBOnkwQFHFA98ZCqc2kblg?e=nhdO1K)
 
 [**View Power BI File with Project Analysis**](https://1drv.ms/u/c/5c04ca5b7bc77dac/ETJ0ZrhmdKpNgKGs6oqHtyYBhujFfHlaFp6E4WTGLdXxFg?e=p6NZfw)
+
+## Projects
+
+### 6. Hiring Process Analytics
+**Summary**: Analyzed a company's hiring data to understand hiring trends, salary structures, gender representation, and departmental breakdowns.  
+**Objective**: To uncover meaningful trends in the hiring process and organizational dynamics.  
+**Methodology**:  
+- Used Microsoft Excel for data cleaning and analysis, including pivot tables, charts, and statistical tools.  
+- Visualized workforce composition, salary distribution, departmental structure, and role hierarchy through graphs.  
+**Tech Used**: Microsoft Excel (Pivot Tables, Charts, Formulas).  
+**Insights**:  
+- **Gender Distribution**: 2561 males and 1856 females hired.  
+- **Salary Analysis**: Average salary offered is $49,983, with General Management offering the highest salaries.  
+- **Department Analysis**: Highest number of employees in the Operational Department (1843).  
+- **Role Distribution**: Significant presence in mid-level roles (C5 and C9 tiers).  
+
+[**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EYp0uCJm4phGsB2nssI6xk0B708C7twZAa4iVi7V8GFIoQ?e=ptSZ7x)
+[**View Excel File with Project Analysis**](https://1drv.ms/x/c/5c04ca5b7bc77dac/EZZl1sj488RJoRXQcbaPFusBysdQb5ViubUQzBMBpjitxQ?e=XX8lsa)
+---
+
+### 7. Instagram User Analytics
+**Summary**: Extracted actionable insights from Instagram user engagement data to support data-driven decisions for marketing and product development.  
+**Objective**: To identify user behavior patterns, optimize engagement strategies, and support marketing campaigns.  
+**Methodology**:  
+- Created and populated a database using MySQL Workbench with DDL and DML queries.  
+- Ran advanced SQL queries to extract trends and insights from the data.  
+**Tech Used**: MySQL Community Server, MySQL Connector C++.  
+**Insights**:  
+- **Loyal Users**: Identified the top 5 oldest users based on account creation date.  
+- **Re-engagement**: Found inactive users who haven't posted and recommended reactivation campaigns.  
+- **Contest Winners**: Declared winners based on most liked posts.  
+- **Marketing**: Recommended the top 5 hashtags and the best day to launch ad campaigns.  
+
+[**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EUU_kt3YNV5LvEFT2FubbgEBNA1i2u4NhjNAcwiJqJ8VSg?e=Rt0WKO)
+
+---
+
+### 8. IMDB Movie Analysis
+**Summary**: Investigated factors influencing the success of movies on IMDB, such as genre, duration, language, director, and budget.  
+**Objective**: To determine the impact of various attributes on a movie's IMDB rating and financial success.  
+**Methodology**:  
+- Cleaned the dataset by addressing missing values, removing duplicates, and reformatting data types.  
+- Conducted descriptive statistics and data analysis using MS Excel to explore relationships.  
+**Tech Used**: Microsoft Excel, MS Office 2021.  
+**Insights**:  
+- **Genre**: Drama and Action were common and variable, while Animation showed consistently high ratings.  
+- **Duration**: Longer movies tended to have higher ratings.  
+- **Language**: French and Spanish movies scored slightly higher on average.  
+- **Director Influence**: Top directors like Alfred Hitchcock and Charles Chaplin consistently scored highly.  
+- **Budget**: High-budget films often had high gross earnings, but some low-budget films showed exceptional profitability.  
+
+[**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EcBSF6BRzK9OpcpFe1l7hkAB4fQ50AxIWyUUwiNKFWZIxA?e=7MRM0L)
+[**View Excel File with Project Analysis**](https://1drv.ms/x/c/5c04ca5b7bc77dac/EfLV-lZDOnpHr3LriiwiRpwBbsWI3tqPDZvYRqHF8gUnnw?e=uoT20x)
+

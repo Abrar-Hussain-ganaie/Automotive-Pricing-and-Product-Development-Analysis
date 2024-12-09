@@ -132,5 +132,5 @@ The objective of this project is to analyze customer churn patterns for a teleco
 
 [**View Python Code (pdf)**](https://1drv.ms/u/c/5c04ca5b7bc77dac/Ec9twD78nQtGkNhhUhdW5oQBmhF4PKfl-4oygBe7g8Pu4Q?e=xnTS4Q)
 
-[**View Project Report**]
+[**View Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EfKKu4QUtxxFp0aIC-eQczsBzYMpN-g6ilI2VSvA1IlpQw?e=dki0mk)
 

@@ -198,6 +198,7 @@ This project involved analyzing sales performance data of a superstore using **P
 - **Role Distribution**: Significant presence in mid-level roles (C5 and C9 tiers).  
 
 [**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EYp0uCJm4phGsB2nssI6xk0B708C7twZAa4iVi7V8GFIoQ?e=ptSZ7x)
+
 [**View Excel File with Project Analysis**](https://1drv.ms/x/c/5c04ca5b7bc77dac/EZZl1sj488RJoRXQcbaPFusBysdQb5ViubUQzBMBpjitxQ?e=XX8lsa)
 ---
 
@@ -233,5 +234,7 @@ This project involved analyzing sales performance data of a superstore using **P
 - **Budget**: High-budget films often had high gross earnings, but some low-budget films showed exceptional profitability.  
 
 [**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EcBSF6BRzK9OpcpFe1l7hkAB4fQ50AxIWyUUwiNKFWZIxA?e=7MRM0L)
+
+
 [**View Excel File with Project Analysis**](https://1drv.ms/x/c/5c04ca5b7bc77dac/EfLV-lZDOnpHr3LriiwiRpwBbsWI3tqPDZvYRqHF8gUnnw?e=uoT20x)
 

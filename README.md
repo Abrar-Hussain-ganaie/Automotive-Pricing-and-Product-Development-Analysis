@@ -154,7 +154,7 @@ This project analyzed **Customer Experience (CX)** data for a company's inbound 
 - Improved customer experience by ensuring adequate staffing during critical periods.
 - Provided actionable insights for effective resource planning and enhanced service levels.
 
-- [**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EYBpr4OyCCZJo6ADgoNm7owB5895hlj9V9DylSwJMbP40g?e=G43LO5)
+ [**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EYBpr4OyCCZJo6ADgoNm7owB5895hlj9V9DylSwJMbP40g?e=G43LO5)
 
 [**View Excel File with Project Analysis**](https://1drv.ms/x/c/5c04ca5b7bc77dac/Eepqx8eoc4ZChJF5Hy6aTSgBuBJsS91tmT_dy5eK6Rsg4A?e=7cmKup)
 
@@ -178,6 +178,6 @@ This project involved analyzing sales performance data of a superstore using **P
 - Proposed improvements in shipping methods, emphasizing potential for First Class and Same Day shipping.
 - Leveraged seasonal insights to enhance inventory planning and maximize holiday sales.
 
-- [**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EaiiYPhuz7lNtBdKginZsQsBvBOnkwQFHFA98ZCqc2kblg?e=nhdO1K)
+ [**View Full Project Report**](https://1drv.ms/b/c/5c04ca5b7bc77dac/EaiiYPhuz7lNtBdKginZsQsBvBOnkwQFHFA98ZCqc2kblg?e=nhdO1K)
 
 [**View Power BI File with Project Analysis**](https://1drv.ms/u/c/5c04ca5b7bc77dac/ETJ0ZrhmdKpNgKGs6oqHtyYBhujFfHlaFp6E4WTGLdXxFg?e=p6NZfw)
